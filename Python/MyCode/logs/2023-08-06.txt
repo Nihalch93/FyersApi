@@ -1,0 +1,8 @@
+
+1691318996124 :: history :: {'symbol': 'NSE:NIFTY50-INDEX', 'resolution': '5', 'date_format': '1', 'range_from': '2023-07-06', 'range_to': '2023-08-05', 'cont_flag': '1'} :: 1691318996298 :: {'s': 'error', 'code': -353, 'message': 'API Limit exceeded per day'}
+
+1691319693580 :: history :: {'symbol': 'NSE:NIFTY50-INDEX', 'resolution': '5', 'date_format': '1', 'range_from': '2023-07-06', 'range_to': '2023-08-05', 'cont_flag': '1'} :: 1691319693810 :: {'s': 'error', 'code': -353, 'message': 'API Limit exceeded per day'}
+
+1691319890702 :: history :: {'symbol': 'NSE:BANKNIFTY-INDEX', 'resolution': '5', 'date_format': '1', 'range_from': '2023-07-06', 'range_to': '2023-08-05', 'cont_flag': '1'} :: 1691319890964 :: {'s': 'error', 'code': -300, 'message': 'Please provide a valid symbol'}
+
+1691319907974 :: history :: {'symbol': 'NSE:NIFTYBANK-INDEX', 'resolution': '5', 'date_format': '1', 'range_from': '2023-07-06', 'range_to': '2023-08-05', 'cont_flag': '1'} :: 1691319908249 :: {'s': 'error', 'code': -353, 'message': 'API Limit exceeded per day'}
